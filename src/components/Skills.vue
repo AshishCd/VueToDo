@@ -15,7 +15,7 @@
       
         </transition-group>
      </ul>
-     <p>These are the skills that you possess.</p>
+     <p>These are the skills that you possess</p>
    </div>
   </div>
 </template>
